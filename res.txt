@@ -1,0 +1,18 @@
+Number of cashiers at the bank: 7
+Service time: 15
+Arrival propability of a client during one minute: 0.3
+Bank works for 480 minutes.
+Bank was visited by 134 clients.
+134 clients were serviced.
+0 clients were unserviced.
+Average waiting time: 0.34 minutes.
+Longest waiting time: 7 minutes.
+Longest line: 4
+Time cashiers spent working in percents:
+1 . 82.92
+2 . 79.17
+3 . 72.29
+4 . 65.62
+5 . 52.92
+6 . 37.08
+7 . 21.88
